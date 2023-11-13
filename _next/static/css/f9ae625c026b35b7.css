@@ -142,19 +142,10 @@
     font-size: .9rem;
     border-radius: .6rem;
     outline: none;
-    background-color: #40778d;
+    background-color: #fbfaf8;
     border: none;
-    color: #fbfaf8;
+    color: #40778d;
     font-weight: 300;
-
-    ::placeholder {
-        color: #fbfaf8af;
-        opacity: 1; /* Firefox */
-      }
-      
-      ::-ms-input-placeholder { /* Edge 12-18 */
-        color: #fbfaf8af;
-      }
 
 }
 
